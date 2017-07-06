@@ -1,13 +1,13 @@
-#title
+header
 {
 	font-family: 'Bungee Shade', cursive;
-	font-size: 60px;
+	font-size: 35px;
 	text-align: center;
 	color: ;
 	padding-top: 40px;
 }
 
-#nav
+nav
 {
 	font-family: 'Hammersmith One', sans-serif;
 	font-size: 27px;
@@ -16,12 +16,9 @@
 	padding-top: ;
 }
 
-#nav_1
-{
 
-}
 
-.hats
+hat
 {
 	width: 30px;
 	height: 50px;
